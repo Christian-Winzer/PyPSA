@@ -43,6 +43,9 @@ Universities and Research Institutes
 
 * `Forschungszentrum Jülich <https://www.fz-juelich.de/>`_ (FZJ) for network calculations
 
+* `Center for Energy and the Environment <https://www.zhaw.ch/de/sml/institute-zentren/cee/>`_ (CEE) at `Zurich University of Applied Sciences <https://www.zhaw.ch/>`_ (ZHAW) for a project on network tariffs
+
+
 
 
 Companies and Non-Governmental Organisations
